@@ -28,7 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display:block;
   }
-body { line-height:1; }
+body { line-height:1; margin-bottom:50px; }
 ol, ul { list-style:none;  }
 blockquote, q { quotes:none; }
 blockquote:before, blockquote:after,
@@ -37,6 +37,10 @@ q:before, q:after { content:''; content:none; }
 table { border-collapse: collapse; border-spacing:0; }
 /* remember to define focus styles. Hee Haw */
 :focus { outline:0; }
+
+/* Images
+------------------------------------------------------- */
+img           { width: 100%; height: auto; }
 
 /* Inline Elements & Typography
 ------------------------------------------------------- */
@@ -65,25 +69,29 @@ h6 {
 
 h1 {
   font-size:42px;
+  margin-top:10px;
   margin-bottom:10px;
   line-height:1em;
   }
 
 h2 {
   font-size:28px;
+  margin-top:20px;
   margin-bottom:20px;
   line-height:1.25em;
   }
 
 h3 {
   font-size:20px;
+  margin-top:20px;
   margin-bottom:20px;
   line-height:1.5em;
   }
 
 h4, h5 {
   font-size:15px;
-  margin-bottom:0;
+  margin-top:15px;
+  margin-bottom:15px;
   line-height:1.67em;
   }
 
