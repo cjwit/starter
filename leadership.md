@@ -4,6 +4,8 @@ layout: page
 permalink: leadership/
 title: Leadership and Committees
 ---
+**Go to** [About]({{ site.baseurl }}/about/) \| [Prizes]({{ site.baseurl }}/prizes/) \| [Membership]({{ site.baseurl }}/membership/)
+
 ## Executive Committee
 
 * Chair: Jennifer Milioto Matsue
