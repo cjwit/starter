@@ -1,4 +1,7 @@
+title: Society for Ethnomusicology Popular Music Section
+author: Maintained by Christopher Witulski
 baseurl: /starter
+url: https://cwitulski.com
 permalink: pretty
 markdown: kramdown
 prose:

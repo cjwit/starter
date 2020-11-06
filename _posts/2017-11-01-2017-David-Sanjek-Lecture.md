@@ -2,7 +2,7 @@
 published: true
 category: blog
 layout: blog
-splash: "/assets/images/feminista.jpg"
+splash: "/img/feminista.jpg"
 title: 2017 David Sanjek Lecture
 ---
 ## Feminista Hip Hop/Futurismo Feminista: Sumak Kawsai/Buen Vivir/Living Right in the Americas

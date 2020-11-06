@@ -2,7 +2,7 @@
 published: true
 category: blog
 layout: blog
-splash: "/assets/images/2016-refugee-dance.jpg"
+splash: "/img/2016-refugee-dance.jpg"
 title: 2019 David Sanjek Lecture
 ---
 ## K-Pop: The Diasporic Dancing Body
