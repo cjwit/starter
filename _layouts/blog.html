@@ -7,11 +7,11 @@ section: blog
   {% if page.splash contains 'http' %}
     {% capture url %}{{page.splash}}{% endcapture %}
   {% else %}
-    {% capture url %}{{page.splash}}/{% endcapture %}
+    {% capture url %}{{ site.url }}{{ page.splash }}{% endcapture %}
   {% endif %}
 
   <div class='col12 splash'>
-    <img src='{{url}}' alt='' />
+    <img src='{{ url }}' alt='' />
   </div>
 {% endif %}
 
