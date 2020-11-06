@@ -4,6 +4,8 @@ layout: page
 permalink: about/
 title: About the Popular Music Section
 ---
+**Go to** [Leadership and Committees]({{ site.baseurl }}/leadership/) \| [Prizes](/prizes/) \| [Membership](/membership/)
+
 ## History
 
 Founded in 1996 by Harris M. Berger, the Popular Music Section is an intellectual community of more than 600 members within the Society for Ethnomusicology. Members share overlapping interests in the study of popular music, both broadly and narrowly defined. Broadly defined, the ethnomusicological study of popular music engages the concrete social activities of musical participants, including mass mediated musics, musics developed on a local level, musics developing outside of established institutional power structures, music emerging in the context of the international industry, musics developing with limited forms of institutionalized pedagogy or orally transmitted musics. Popular music may also be construed in a more narrow fashion, in which case any one of these elements may serve as guiding definition. PMSSEM has an interdisciplinary mission in research, education, and institutional infrastructure.
@@ -55,62 +57,3 @@ PMSSEM seek to encourage:
 Composed by Harris M. Berger, October 8, 1997. Approved by the Section at the annual meeting of the Society for Ethnomusicology (Pittsburgh Pennsylvania, October 24, 1997)
 
 Copyright 1997 All Rights Reserved
-
-## Committees
-
-### Executive Committee
-
-* Chair: Jennifer Milioto Matsue
-* Outgoing Chair: Jeremy Wallach
-* Secretary: Meryl Krieger
-* Website Editor: Trevor S. Harvey
-* PMSSEM-L Manager: Phyllis Tang
-
-#### Past Chairs
-
-* Paul D. Greene
-* Harris M. Berger
-
-### Prize Committees
-
-#### Lise Waxer Prize Committee
-
-* Joshua Duchan, chair
-* Meredith Schweig
-* Fritz Schenker
-
-#### Richard Waterman Junior Scholar Prize Committee
-
-* Laurie Semmes, chair
-*  Jane Florine
-* Andy Eisenberg
-
-### Conference Committees
-
-#### The David Sanjek Lecture in Popular Music Committee
-
-* Katherine Metz, chair
-* Meredith Schweig
-* Tony Dumas
-
-### Ongoing Committees
-
-#### Bi-Laws Committee
-
-* Jennifer Matsue, chair
-* Gordon Thompson
-* Meryl Krieger
-
-#### Research Grant Committee
-
-* Jeremy Wallach, chair
-* Esther Clinton
-* Katherine Meizel
-* Paul Greene
-
-#### Committee on the Status of Popular Music Scholars
-
-* Dennis Rathnaw, chair
-* Paul Greene
-* Katherine Metz
-* Katherine Meizel
